@@ -15,6 +15,10 @@
        "description": "每个连接的缓存大小，单位MB",
        "value": "10"
      }
+        "ifno": {
+       "description": "每个连接的缓存大小，单位MB",
+       "value": "10"
+     }
   },
   "website": "https://github.com/wangyi2005/v2ray-heroku",
   "repository": "https://github.com/wangyi2005/v2ray-heroku",
